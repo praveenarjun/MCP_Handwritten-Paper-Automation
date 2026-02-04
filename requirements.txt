@@ -1,0 +1,8 @@
+mcp
+requests
+python-dotenv
+pillow
+fastapi>=0.110.0
+uvicorn
+streamlit
+pymupdf
