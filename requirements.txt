@@ -6,3 +6,4 @@ fastapi>=0.110.0
 uvicorn
 streamlit
 pymupdf
+python-multipart
